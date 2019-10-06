@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Logica_App</string>
+    <string name="txt_intro">Conjuction (AND)</string>
+    <string name="txt_example1">A</string>
+    <string name="txt_example2">B</string>
+    <string name="txt_example3">A^B</string>
+    <string name="txt_true">T</string>
+    <string name="txt_false">F</string>
+    <string name="btn_submit">Submit</string>
 </resources>
